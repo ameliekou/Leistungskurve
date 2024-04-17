@@ -10,4 +10,4 @@ sorted_power_W = bubble_sort(power_W)
 
 
 print(data)
-print(sorted_power_W[::-1])
+print(sorted_power_W)
